@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Google API Secrets (CRITICAL)
+credentials.json
+token.json
+
+# Local Storage Database
+whitelist.json
+
+# System / OS specific files
+.DS_Store
+*.log
